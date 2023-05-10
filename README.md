@@ -46,7 +46,7 @@ It's time to create a business!
 5. You must create a gray paper that explains the HTML, CSS, and JS that you did. It should outline at least 30 different points, showing the code and explaining what it does.
 
 
-6. Your HTML must include a minimum of one table, links, two lists, five images, a navigation bar, three forms (text box, radio button, checkbox, submit, and button), and anything else you like.
+6. Your HTML must include a minimum of one table, links, two lists, five Images, a navigation bar, three forms (text box, radio button, checkbox, submit, and button), and anything else you like.
 
 
 7. Your CSS must be extensive and consistent with your business model and design.
